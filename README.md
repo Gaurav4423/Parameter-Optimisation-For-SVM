@@ -15,7 +15,7 @@ https://archive.ics.uci.edu/ml/machine-learning-databases/00622/
 
 The target attribute for classification is a category (GoodWare or Malware)
 
-Number of Instances: 4464
+Number of Instances: 5464
 
 Number of Attributes: 241
 
