@@ -21,7 +21,7 @@ Number of Attributes: 241
 
 ## Result
 
-![image](https://user-images.githubusercontent.com/74859766/233186894-eb841d50-3b7a-4800-839a-f83df50b4556.png)
+![image](https://user-images.githubusercontent.com/74859766/233193796-6c26cbfb-2a92-4065-9298-82b13a6e6837.png)
 
 ## Convergence Graph
 ![image](https://user-images.githubusercontent.com/74859766/233187136-57506e95-4827-48f3-a459-b8fc12f8422c.png)
