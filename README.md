@@ -1,5 +1,4 @@
 # Parameter Optimization of SVM
-This is the assignment for course UCS654 presented by Gaurav Gupta (102197018)
 
 ## Introduction
 
